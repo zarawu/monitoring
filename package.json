@@ -1,0 +1,18 @@
+{
+  "name": "monitoring",
+  "version": "1.0.0",
+  "description": "监控服务访问时间",
+  "main": "monitoring.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git "
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "xiaoyu.wu@12301.cn",
+  "license": "ISC"
+}
